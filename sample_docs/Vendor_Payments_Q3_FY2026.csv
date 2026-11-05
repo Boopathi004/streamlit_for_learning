@@ -1,0 +1,16 @@
+invoice_id,vendor,category,invoice_date,amount_inr_before_gst,gst_percent,payment_status,payment_date,department
+INV-2026-0388,Kaveri Office Supplies,Stationery,2026-08-02,21450,18,Paid,2026-08-30,Operations
+INV-2026-0402,Sundaram Cloud Hosting,IT Services,2026-08-10,186000,18,Paid,2026-09-08,Engineering
+INV-2026-0409,Brightline Logistics,Freight,2026-08-14,94500,12,Paid,2026-09-12,Operations
+INV-2026-0417,Kaveri Office Supplies,Office Equipment,2026-08-21,48320,18,Paid,2026-09-19,Operations
+INV-2026-0425,Anand Legal Associates,Professional Fees,2026-08-25,125000,18,Paid,2026-09-24,Finance
+INV-2026-0431,Vista Print and Media,Marketing,2026-08-29,67800,18,Paid,2026-09-27,Marketing
+INV-2026-0440,Sundaram Cloud Hosting,IT Services,2026-09-05,192500,18,Pending,,Engineering
+INV-2026-0446,Brightline Logistics,Freight,2026-09-09,103200,12,Pending,,Operations
+INV-2026-0453,Techspan Contractors,Contract Labour,2026-09-12,340000,18,Paid,2026-10-10,Engineering
+INV-2026-0459,Greenfield Facility Services,Facilities,2026-09-15,58900,18,Paid,2026-10-14,Operations
+INV-2026-0466,Vista Print and Media,Marketing,2026-09-18,112400,18,Disputed,,Marketing
+INV-2026-0472,Anand Legal Associates,Professional Fees,2026-09-22,85000,18,Pending,,Finance
+INV-2026-0479,Kaveri Office Supplies,Stationery,2026-09-25,17640,18,Pending,,Human Resources
+INV-2026-0485,Orbit Machine Works,Equipment Maintenance,2026-09-27,140000,18,Paid,2026-10-22,Operations
+INV-2026-0491,Techspan Contractors,Contract Labour,2026-09-30,340000,18,Pending,,Engineering

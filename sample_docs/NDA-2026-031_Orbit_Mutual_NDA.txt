@@ -1,0 +1,38 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+Reference: NDA-2026-031
+Date: 12 March 2026
+
+PARTIES
+(1) Meridian Industrial Solutions Pvt. Ltd., Industrial Estate Phase 2, Coimbatore 641021 ("Meridian")
+(2) Orbit Machine Works, 7 Foundry Street, Salem 636001 ("Orbit")
+
+PURPOSE
+The parties wish to exchange confidential information to evaluate a possible long-term maintenance contract for production equipment (the "Purpose").
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+Confidential Information means all technical, commercial and financial information, drawings, specifications and data disclosed by one party to the other in any form, that is marked confidential or would reasonably be understood to be confidential. It does not include information that (a) is or becomes public without breach, (b) was already known to the receiving party, (c) is independently developed, or (d) is received lawfully from a third party.
+
+2. OBLIGATIONS
+Each party shall (a) use Confidential Information only for the Purpose, (b) not disclose it to any third party without prior written consent, (c) limit access to employees and advisers who need to know and are bound by equivalent duties, and (d) protect it with at least the same care it uses for its own confidential information, and no less than reasonable care.
+
+3. TERM AND SURVIVAL
+This Agreement is effective for 2 years from the date above. The confidentiality obligations continue for 5 years after expiry or termination, except for trade secrets, which remain protected for as long as they qualify as trade secrets.
+
+4. COMPELLED DISCLOSURE
+If a party is required by law or court order to disclose Confidential Information, it shall give the other party prompt written notice, where lawful, and disclose only what is legally required.
+
+5. RETURN OR DESTRUCTION
+Within 15 days of written request, the receiving party shall return or destroy all Confidential Information and certify this in writing. One archival copy may be retained by legal counsel solely to evidence compliance.
+
+6. REMEDIES
+Each party acknowledges that breach may cause irreparable harm and that the other party is entitled to seek injunctive relief in addition to any other remedy. There is no liquidated damages clause in this Agreement.
+
+7. NO LICENCE OR OBLIGATION
+Nothing in this Agreement grants any licence to intellectual property or obliges either party to enter into any further agreement.
+
+8. GOVERNING LAW
+This Agreement is governed by the laws of India. The courts at Coimbatore have exclusive jurisdiction.
+
+Signed:
+For Meridian: Anitha Raghavan, Head of Legal and Compliance
+For Orbit: Suresh Kumar, Proprietor
